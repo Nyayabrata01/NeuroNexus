@@ -1,5 +1,7 @@
 # NeuroNexus Landing Page
 
+![Landing Page Screenshot](./assets/landingpage.png)
+
 The **NeuroNexus Landing Page** is a single-file, responsive, and modern landing page that showcases a developer toolkit (Devkit). Entirely self-contained in a single `index.html` file, it features a clean design, animated scroll effects, interactive navigation, and a functional contact form.
 
 ---
